@@ -3,6 +3,8 @@ public class Character{
     private int x;
     private int y;
 
+
+
     String slogan = "";
 
     private String name;
@@ -12,6 +14,8 @@ public class Character{
     public Character(String name, CharacterType characterType){
         this.name = name;
         this.characterType = characterType;
+
+      
 
         this.x = 30;
         this.y = 30;
