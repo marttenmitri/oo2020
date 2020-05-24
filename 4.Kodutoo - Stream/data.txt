@@ -1,5 +1,0 @@
-Salme,40000
-Kalle,12000
-Marui,9000
-Jaak,1900
-Juri,900
